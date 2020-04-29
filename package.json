@@ -7,12 +7,12 @@
     "start": "node index.js"
   },
   "keywords": [
-    'battle spirits',
-    'card',
-    'api',
-    'express'
+    "battle spirits",
+    "card",
+    "api",
+    "express"
   ],
-  "author": "",
+  "author": "Adrian Li <ringate@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
